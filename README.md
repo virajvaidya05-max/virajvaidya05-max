@@ -1,6 +1,6 @@
-# VIRAJ𔒝 this side
-#  About Me︻デ══━一
-Python Enthusiast🐍<br>Binary & Database Explorer 💻<br>Passionate about logic, data, and technology.<br>Always learning. Always building.
+# VIRAJ𔒝 
+#  About Me
+Python Enthusiast🐍<br>Binary & Database Explorer <br>Passionate about logic, data, and technology.<br>Always learning. Always building.
 
 
 ##  SOCIALS:
